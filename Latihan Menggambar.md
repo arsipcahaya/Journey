@@ -85,11 +85,27 @@ Latihan ini diperkenalkan oleh [Drawabox](https://drawabox.com/lesson/1/tablesof
 ![[Pasted image 20251123083831.png]]
 Latihan ini diperkenalkan oleh [Drawabox.](https://drawabox.com/lesson/1/ellipsesinplanes). Sebenarnya ini adalah gabungan antara [[#2. Ghosting Garis Lurus]] & oval. Kalian buat persegi dengan bentuk yang bervariasi menggunakan metode ghosting yang sudah kalian pelajari, kemudian isi persegi itu dengan bentuk oval.
 #### Hal Yang Perlu Diingat
-- Jangan lupa untuk menggunakan metode ghosting untuk memidik keempat sisi garis persegi.
+- Jangan lupa untuk menggunakan metode ghosting untuk membidik keempat sisi garis persegi.
 - Usahakan oval tersebut harus menyentuh keempat sisi garis persegi, tidak boleh kurang dan tidak boleh berlebihan.
 - Hindari bentuk oval penyok / gepeng. Jangan memaksakan oval menyentuh pinggiran kotak sampai bentuknya menjadi penyok, seperti persegi, atau seperti ban kempes.
 - Hindari oval melayang. Jangan hanya mencari aman dengan menggambar lingkaran halus kecil di tengah tanpa usaha membidik garis pinggir persegi.
+### B. Corong
 
+![[Pasted image 20251123090113.png]]
 ![[Pasted image 20251123083546.png]]
+Latihan ini diperkenalkan oleh [Drawabox](https://drawabox.com/lesson/1/funnels). Latihan ini diharuskan untuk membuat oval dengan bentuk yang bervariasi dari kecil dan sempit menuju besar dan lebar.
+#### Hal Yang Perlu Diingat
+- Jangan lupa untuk menggunakan metode ghosting untuk membidik sisi batas corong.
+- Hindari jarak kosong. Rapatkan barisan elips satu sama lain sampai saling menempel. Jangan sisakan ruang kosong yang besar di antaranya.
+- Hindari oval miring. Usahakan oval sejajar satu sama lain.
+- Oval jangan sampai keluar dari batas dinding corong.
+### C. Mainan Pegas
 ![[Pasted image 20251123083729.png]]
 ![[Pasted image 20251123083751.png]]
+Di latihan ini oval harus saling menumpuk. Bayangkan mainan pegas / per. Jangan menggambar koin yang berjejer, tapi gambarlah pegas yang bersambung.
+#### Hal Yang Perlu Diingat
+- Metode ghosting disini opsional karena disini harus menarik garis dengan satu tarikan tanpa dilepas. Namun, jika untung ancang-ancang dan membidik boleh saja menggunakan metode ghosting.
+- Jangan biarkan ovalnya mengecil di tengah jalan atau melembung keluar jalur. Ukurannya harus konsisten dari awal sampai akhir.
+- Hindari oval miring. Usahakan oval sejajar satu sama lain.
+- Usahakan untuk melakukan semuanya bersambung dari awal sampai akhir, jangan mengangkat pensil di tengah-tengah.
+  
