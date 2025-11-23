@@ -7,7 +7,7 @@ Ketika melakukan latihan ini kalian harus menggunakan gerakan dari pundak daripa
 - Jangan terburu-buru. Ambil jeda jika perlu.
 - Jika sudah sering melakukan latihan, cobalah untuk memvariasikannya seperti garisnya jangan hanya horizontal namun coba untuk vertikal atau miring ke kiri atau miring ke kanan dan juga cobalah untuk menarik jangan hanya dari kiri ke kanan, coba dari kanan ke kiri atau atas ke bawah juga bawah ke atas agar tangan bisa lebih terbiasa dan tidak terasa kaku ketika mencoba menarik garis.
 - Fokus untuk membuat garis yang percaya diri (tidak ragu-ragu untuk menarik garis) dan halus.
-- Jangan bikin garis yang "berbulu" (garis putus-putus pendek). Lebih baik garisnya melenceng tapi lurus dan tegas, daripada akurat tapi keriting/ragu-ragu.
+- Jangan bikin garis yang "berbulu" (garis putus-putus pendek). Lebih baik garisnya melenceng tapi lurus dan percaya diri, daripada akurat tapi keriting / ragu-ragu.
 - Gunakan metode ghosting atau ancang-ancang. Sebelum pensil menempel ke kertas, posisikan pensilnya melayang di atas kertas lalu coba tarik garis lurus di udara dengan acuan titik pertama dan kedua yang sudah dibuat. Lakukan berkali-kali sampai sudah terekam gerakan tersebut, lalu ambil momentum dengan posisikan pensil menempel ke kertas.
 # Garis
 ## 1. Menjiplak Garis Lurus
@@ -27,7 +27,7 @@ Latihan ini diperkenalkan oleh Peter Han. Pertama-tama harus membuat garis lurus
 ![[Pasted image 20251123054956.png]]
 Latihan ini diperkenalkan oleh [Drawabox](https://drawabox.com/lesson/1/ghostedlines). Ghosting adalah tindakan melakukan gerakan membuat tanda (garis) tetapi tanpa benar-benar menyentuh kertas. Kamu mengarahkan pena ke titik awal, lalu menggerakkan pena ke titik akhir dengan gerakan yang halus dan percaya diri, sambil menahan pena sedikit melayang di atas permukaan kertas. Kemudian, kamu angkat pena lagi, bawa kembali ke titik awal, dan ulangi prosesnya.
 ### Hal Yang Perlu Diingat
-- Pertama-tama buat satu titik di manapun lemudian buat titik kedua dengan jarak yang sudah ditentukan, lalu praktekan metode ghosting atau ancang-ancang. Sebelum pensil menempel ke kertas, posisikan pensilnya melayang di atas kertas lalu coba tarik garis lurus di udara dengan acuan titik pertama dan kedua yang sudah dibuat. Lakukan berkali-kali sampai sudah terekam gerakan tersebut, lalu ambil momentum dengan posisikan pensil menempel ke kertas dengan satu tarikan garis lurus dari titik pertama ke titik kedua.
+- Pertama-tama buat satu titik di manapun lemudian buat titik kedua dengan jarak yang sudah  ditentukan, lalu praktekan metode ghosting atau ancang-ancang. Sebelum pensil menempel ke kertas, posisikan pensilnya melayang di atas kertas lalu coba tarik garis lurus di udara dengan acuan titik pertama dan kedua yang sudah dibuat. Lakukan berkali-kali sampai sudah terekam gerakan  tersebut. Lalu jika sudah yakin, langsung dengan posisikan pensil menempel ke kertas dengan satu tarikan garis lurus dari titik pertama ke titik kedua.
 - Jangan sampai membuat garis yang goyang-goyang. Garis harus lurus.
 - Jangan juga garis agak melengkung, usahakan garisnya lurus.
 - Ketika pertama melakukan latihan ini, tidak apa-apa garis sering meleset atau kelebihan jaraknya dari titik kedua. Namun setelah sudah sering melakukan latihan ini, usahakan garis nya mendarat tepat dititik kedua.
@@ -70,8 +70,12 @@ Latihan ini diperkenalkan oleh [Alphonso Dunn](https://youtu.be/Oatb66DAFXw?si=o
 - Coba juga untuk jangan satu arah, variasikan arahnya dari horizontal ke vertikal atau bahkan miring, disini kalian bebas untuk melakukan variasi dari berbagai arah.
 # Lingkaran & Oval
 
+![[Pasted image 20251123081635.png]]
 ![[Pasted Image 20251117063928_971.png]]![[Pasted Image 20251117064131_094.png]]![[Pasted Image 20251117064156_835.png]]
 ![[Pasted image 20251123075438.png]]
 ![[Pasted image 20251123075459.png]]
-
+Latihan ini diperkenalkan oleh [Drawabox](https://drawabox.com/lesson/1/tablesofellipses) dan Peter Han. Latihannya membuat lingkaran dan oval. Latihan ini diharuskan membuat tabel dulu menggunakan penggaris, ukurannya bebas bisa lebar atau sempit, lalu coba untuk menggambar lingkaran di dalam tabel tersebut. Fokus jangan sampai keluar garis tabel, lingkaran harus berada dalam tabel semuanya.
 ### Hal Yang Perlu Diingat
+- Hindari hasil lingkaran atau oval yang tidak rata, benjol, keriting, garis awal dan akhir tidak bertemu, bergelombang, ragu-ragu.
+- Wajib menggunakan metode ghosting atau ancang-ancang. Sebelum pensil menempel ke kertas,  posisikan pensilnya melayang di atas kertas lalu coba gerakan memutar lingkaran di udara. Lakukan berkali-kali sampai sudah terekam gerakan tersebut. Lalu jika sudah yakin, langsung ambil momentum dengan posisikan pensil menempel ke kertas dengan 2-3 kali putaran.
+- Cobalah untuk memvariasikan kecepatan ketika pada saat ghosting, coba perlambat gerakan ghostingnya atau coba juga percepat gerakannya, cari mana yang lebih nyaman dan hasilnya lebih presisi.
