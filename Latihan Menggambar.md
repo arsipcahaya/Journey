@@ -5,33 +5,34 @@ Ketika melakukan latihan ini kalian harus menggunakan gerakan dari pundak daripa
 # Catatan Penting
 - Jangan terburu-buru.
 - Ambil jeda jika perlu.
+- Jika sudah sering melakukan latihan, cobalah untuk memvariasikannya seperti garisnya jangan hanya horizontal namun coba untuk vertikal atau miring ke kiri atau miring ke kanan dan juga cobalah untuk menarik jangan hanya dari kiri ke kanan, coba dari kanan ke kiri atau atas ke bawah juga bawah ke atas agar tangan bisa lebih terbiasa dan tidak terasa kaku ketika mencoba menarik garis.
 # Garis
 ## 1. Menjiplak Garis Lurus
 
 ![[Pasted image 20251123052659.png]]
-Latihan ini diperkenalkan oleh Peter Han. Pertama-tama harus membuat garis lurus menggunakan penggaris lalu dijiplak dengan pengulangan 8x. Untuk pertama kali latihan wajib menggukanan garis, namun ketika sudah sering latihan, langsung saja membuat garis lurus tanpa penggaris lalu jiplak dengan pengulangan 8x.
+Latihan ini diperkenalkan oleh Peter Han. Pertama-tama harus membuat garis lurus menggunakan penggaris lalu dijiplak dengan 8 kali pengulangan. Ketika pertama kali melakukan latihan ini, kalian wajib menggukanan penggaris namun ketika sudah sering latihan, langsung saja membuat garis lurus tanpa penggaris lalu jiplak dengan 8 kali pengulangan.
 ### Hal Yang Perlu Diingat
 - Menjiplak dengan perlahan, jangan terburu-buru.
-- Jangan sampai membuat cabang di sisi garis maupun di ujung garis (itu tandanya membuaat garis dengan terburu-buru, wajib dengan santai ketika latihan menjiplak garis lurus).
+- Jangan sampai membuat cabang di sisi garis maupun di ujung garis (itu tandanya kalian membuat garis dengan terburu-buru, wajib dengan santai ketika latihan menjiplak garis lurus).
 - Usahakan garisnya lurus, jangan sampai keluar garis atau melebihi dari garis awal.
-- Garisnya jangan sampai ada yang goyang-goyang (bentuknya seperti naik turun). Coba untuk variasikan kecepatan ketika menjiplak garis lurus.
+- Garisnya jangan sampai ada yang goyang-goyang (bentuknya gelombang atau naik turun). Cobalah untuk variasikan kecepatan ketika menjiplak garis lurus.
 - Bila perlu tarik nafas dahulu sebelum menarik garis untuk mengambil momentum lalu tahan nafas beberapa detik ketika sedang menjiplak garis.
-- Variasikan garisnya mulai dari jarak yang pendek, menengah sampai garis panjang.
+- Variasikan garisnya mulai dari jarak yang pendek, menengah sampai garis yang sangat panjang.
 - Usahakan posisi 90 derajat ketika memegang alat tulis.
 ## 2. Ghosting Garis Lurus
 
 ![[Pasted image 20251123054956.png]]
 Latihan ini diperkenalkan oleh [Drawabox](https://drawabox.com/lesson/1/ghostedlines). Ghosting adalah tindakan melakukan gerakan membuat tanda (garis) tetapi tanpa benar-benar menyentuh kertas. Kamu mengarahkan pena ke titik awal, lalu menggerakkan pena ke titik akhir dengan gerakan yang halus dan percaya diri, sambil menahan pena sedikit melayang di atas permukaan kertas. Kemudian, kamu angkat pena lagi, bawa kembali ke titik awal, dan ulangi prosesnya.
 ### Hal Yang Perlu Diingat
-- Pertama-tama buat satu titik di manapun lemudian buat titik kedua dengan jarak yang sudah ditentukan, lalu praktekan metode ghosting yaitu ancang-ancang. Pena nya melayang di kertas lalu coba menarik garis lurus di udara dengan acuan titik pertama dan kedua yang sudah dibuat, ulangi berkali-kali sampai sudah terekam gerakan tersebut, lalu ambil momentum dengan posisikan pena di kertas dengan satu tarikan garis lurus ke titik kedua.
+- Pertama-tama buat satu titik di manapun lemudian buat titik kedua dengan jarak yang sudah ditentukan, lalu praktekan metode ghosting yaitu ancang-ancang. Pena-nya melayang di kertas lalu coba menarik garis lurus di udara dengan acuan titik pertama dan kedua yang sudah dibuat, ulangi berkali-kali sampai sudah terekam gerakan tersebut, lalu ambil momentum dengan posisikan pena di kertas dengan satu tarikan garis lurus ke titik kedua.
 - Jangan sampai membuat garis yang goyang-goyang. Garis harus lurus.
-- Jangan juga garis agak melengkung, usahakan lurus.
+- Jangan juga garis agak melengkung, usahakan garisnya lurus.
 - Ketika pertama melakukan latihan ini, tidak apa-apa garis sering meleset atau kelebihan jaraknya dari titik kedua. Namun setelah sudah sering melakukan latihan ini, usahakan garis nya mendarat tepat dititik kedua.
 - Fokus menarik garis lurus secara percaya diri, kemudian fokus akurasi garis lurus mendarat tepat dititk kedua.
 ## 3. Garis Lurus Segala Arah
 
 ![[Pasted image 20251123061322.png]]
-Latihan ini diperkenalkan oleh [Alphonso Dunn](https://youtu.be/YniyrwNtdVI?si=sgdwS_rfuh7PTCyU). Latihannya simpel, hanya membuat garis lurus ke segala arah.
+Latihan ini diperkenalkan oleh [Alphonso Dunn](https://youtu.be/YniyrwNtdVI?si=sgdwS_rfuh7PTCyU). Latihannya sederhana, hanya membuat garis lurus ke segala arah.
 ### Hal Yang Perlu Diingat
 - Coba mulai dari garis yang pendek-pendek terlebih dahulu, kemudian nanti variasikan menjadi garis yang panjangnya bervariasi, garis menengah maupun yang panjang sekali.
 - Variasikan jarak garisnya, dari rapat lalu renggang.
@@ -41,10 +42,26 @@ Latihan ini diperkenalkan oleh [Alphonso Dunn](https://youtu.be/YniyrwNtdVI?si=s
 ### A. Garis Lengkung, Gelombang, Zig Zag
 
 ![[Pasted image 20251123060949.png]]
-Ini adalah variasi dari [[#1. Menjiplak Garis Lurus]]. Aturannya kurang lebih sama buat garis lalu dijiplak dengan 8x pengulangan.
-### Hal Yang Perlu Diingat
+Ini adalah variasi dari [[#1. Menjiplak Garis Lurus]]. Aturannya kurang lebih sama buat garis lalu dijiplak dengan 8 kali pengulangan.
+#### Hal Yang Perlu Diingat
 - Jika tidak memiliki penggaris lengkung tidak apa-apa, cobalah untuk menarik garis secara bebas tanpa bantuan apapun lalu jiplak 8x pengulangan.
 - Ketika awal-awal melakukan latihan ini, jika garis yang dibuat secara bebas itu tidak presisi juga tidak apa-apa. Namun, usahakan garisnya terlihat terbentuk seperti yang diinginkan misalnya garis lengkung harus melengkung, dll.
 - Variasikan garisnya, boleh lengkung ke atas atau lengkung ke bawah, disini bebas untuk lebih kreatif agar tidak bosan.
+### B. Ketebalan Garis
 
-
+![[Pasted image 20251123064632.png]]
+![[Pasted image 20251123065120.png]]
+![[Pasted image 20251123065223.png]]
+![[Pasted image 20251123065332.png]]
+![[Pasted image 20251123071445.png]]
+![[Pasted image 20251123071611.png]]
+![[Pasted image 20251123071909.png]]
+![[Pasted image 20251123072013.png]]
+![[Pasted image 20251123072224.png]]
+![[Pasted image 20251123072424.png]]
+![[Pasted image 20251123072549.png]]
+Latihan ini diperkenalkan oleh [Alphonso Dunn](https://youtu.be/Oatb66DAFXw?si=oVGHL6H8e9SW3TqV) dan playlist video [Pen and Ink Series](https://youtube.com/playlist?list=PLpQwDE6RLPv8y_vrCZlO4HgRC0eYqX6bQ&si=I7d0Ti1ETHHuxQtH). Latihannya memvariasikan ketebalan garis dari yang tebal ke tipis / samar ataupun sebaliknya.
+#### Hal Yang Perlu Diingat
+- Variasikan garisnya seperti gambar yang ada di atas. Mulai dari tipis ke tebal, tebal ke tipis, tebal ke tipis kemudian tipis lagi, tipis ke tebal kemudian ke tipis lagi.
+- Cobalah untuk memvariasikan bentuk garisnya. Jangan hanya garis lurus saja, coba garis lengkung.
+- Coba juga untuk jangan satu arah, variasikan arahnya dari horizontal ke vertikal atau bahkan miring, disini kalian bebas untuk melakukan variasi dari berbagai arah.
