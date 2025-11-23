@@ -65,3 +65,4 @@ Latihan ini diperkenalkan oleh [Alphonso Dunn](https://youtu.be/Oatb66DAFXw?si=o
 - Variasikan garisnya seperti gambar yang ada di atas. Mulai dari tipis ke tebal, tebal ke tipis, tebal ke tipis kemudian tipis lagi, tipis ke tebal kemudian ke tipis lagi.
 - Cobalah untuk memvariasikan bentuk garisnya. Jangan hanya garis lurus saja, coba garis lengkung.
 - Coba juga untuk jangan satu arah, variasikan arahnya dari horizontal ke vertikal atau bahkan miring, disini kalian bebas untuk melakukan variasi dari berbagai arah.
+  
