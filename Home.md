@@ -1,7 +1,10 @@
 # DRAW
 
-| No. | Daily Habit |
-| --- | ----------- |
-| 1.  |             |
-| 2.  |             |
-| 3.  |             |
+| Daily Habit            |
+| ---------------------- |
+| [[Latihan Menggambar]] |
+|                        |
+|                        |
+|                        |
+
+# GUITAR
