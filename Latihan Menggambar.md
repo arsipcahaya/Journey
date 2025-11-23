@@ -62,7 +62,9 @@ Ini adalah variasi dari [[#1. Menjiplak Garis Lurus]]. Aturannya kurang lebih sa
 ![[Pasted image 20251123072549.png]]
 Latihan ini diperkenalkan oleh [Alphonso Dunn](https://youtu.be/Oatb66DAFXw?si=oVGHL6H8e9SW3TqV) dan playlist video [Pen and Ink Series](https://youtube.com/playlist?list=PLpQwDE6RLPv8y_vrCZlO4HgRC0eYqX6bQ&si=I7d0Ti1ETHHuxQtH). Latihannya memvariasikan ketebalan garis dari yang tebal ke tipis / samar ataupun sebaliknya.
 #### Hal Yang Perlu Diingat
-- Variasikan garisnya seperti gambar yang ada di atas. Mulai dari tipis ke tebal, tebal ke tipis, tebal ke tipis kemudian tipis lagi, tipis ke tebal kemudian ke tipis lagi.
+- Variasikan garisnya seperti gambar yang ada di atas. Mulai dari tipis ke tebal, tebal ke tipis, tebal ke tipis kemudian tipis lagi, tipis ke tebal kemudian ke tipis lagi, dll.
 - Cobalah untuk memvariasikan bentuk garisnya. Jangan hanya garis lurus saja, coba garis lengkung.
 - Coba juga untuk jangan satu arah, variasikan arahnya dari horizontal ke vertikal atau bahkan miring, disini kalian bebas untuk melakukan variasi dari berbagai arah.
-  
+# Lingkaran & Oval
+
+![[Pasted Image 20251117063928_971.png]]![[Pasted Image 20251117064131_094.png]]![[Pasted Image 20251117064156_835.png]]
