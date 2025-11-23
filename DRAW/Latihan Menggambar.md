@@ -50,7 +50,7 @@ Ini adalah variasi dari [[#1. Menjiplak Garis Lurus]]. Aturannya kurang lebih sa
 - Jika tidak memiliki penggaris lengkung tidak apa-apa, cobalah untuk menarik garis secara bebas tanpa bantuan apapun lalu jiplak 8x pengulangan.
 - Ketika awal-awal melakukan latihan ini, jika garis yang dibuat secara bebas itu tidak presisi juga tidak apa-apa. Namun, usahakan garisnya terlihat terbentuk seperti yang diinginkan misalnya garis lengkung harus melengkung, dll.
 - Variasikan garisnya, boleh lengkung ke atas atau lengkung ke bawah, disini bebas untuk lebih kreatif agar tidak bosan.
-### B. Ketebalan Garis
+### B. Garis Dinamis
 
 ![[Pasted image 20251123064632.png]]
 ![[Pasted image 20251123065120.png]]
