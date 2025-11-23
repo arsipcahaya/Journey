@@ -102,7 +102,7 @@ Latihan ini diperkenalkan oleh [Drawabox](https://drawabox.com/lesson/1/funnels)
 ### C. Mainan Pegas
 ![[Pasted image 20251123083729.png]]
 ![[Pasted image 20251123083751.png]]
-Di latihan ini oval harus saling menumpuk. Bayangkan mainan pegas / per. Jangan menggambar koin yang berjejer, tapi gambarlah pegas yang bersambung.
+Latihan ini bersumber dari [Pinterest](https://br.pinterest.com/pin/641200065730295498/). Di latihan ini oval harus saling menumpuk. Bayangkan mainan pegas / per. Jangan menggambar koin yang berjejer, tapi gambarlah pegas yang bersambung.
 #### Hal Yang Perlu Diingat
 - Metode ghosting disini opsional karena disini harus menarik garis dengan satu tarikan tanpa dilepas. Namun, jika untung ancang-ancang dan membidik boleh saja menggunakan metode ghosting.
 - Jangan biarkan ovalnya mengecil di tengah jalan atau melembung keluar jalur. Ukurannya harus konsisten dari awal sampai akhir.
