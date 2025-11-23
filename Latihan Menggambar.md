@@ -93,7 +93,8 @@ Latihan ini diperkenalkan oleh [Drawabox.](https://drawabox.com/lesson/1/ellipse
 
 ![[Pasted image 20251123090113.png]]
 ![[Pasted image 20251123083546.png]]
-Latihan ini diperkenalkan oleh [Drawabox](https://drawabox.com/lesson/1/funnels). Latihan ini diharuskan untuk membuat oval dengan bentuk yang bervariasi dari kecil dan sempit menuju besar dan lebar.
+Latihan ini diperkenalkan oleh [Drawabox](https://drawabox.com/lesson/1/funnels). Latihan ini diharuskan untuk membuat oval dengan bentuk yang bervariasi dari kecil dan sempit menuju besar dan lebar. 
+Caranya siapkan kerangkanya dulu menggunakan penggaris (garis sumbu vertikal panjang dan garis tengah pendek) agar benar-benar lurus, lalu tambahkan dua garis lengkung di sisi kanan-kirinya hingga membentuk corong (disini kalian bisa pakai bantukan penggaris lengkung atau benda-benda perabotan di rumah seperti tutup wadah makanan, tutup toples atau bisa juga gayung. Apapun yang berbentuk lingkaran bisa dipakai untuk membuat setengah lingkaran kiri dan kanan seperti gambar di atas). Lalu isi corong itu dengan oval secara bebas tanpa penggaris, di mana setiap elips wajib terbelah dua sama rata (simetris) oleh garis sumbu tengah tadi.
 #### Hal Yang Perlu Diingat
 - Jangan lupa untuk menggunakan metode ghosting untuk membidik sisi batas corong.
 - Hindari jarak kosong. Rapatkan barisan elips satu sama lain sampai saling menempel. Jangan sisakan ruang kosong yang besar di antaranya.
