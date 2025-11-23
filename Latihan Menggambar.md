@@ -69,13 +69,27 @@ Latihan ini diperkenalkan oleh [Alphonso Dunn](https://youtu.be/Oatb66DAFXw?si=o
 - Cobalah untuk memvariasikan bentuk garisnya. Jangan hanya garis lurus saja, coba garis lengkung.
 - Coba juga untuk jangan satu arah, variasikan arahnya dari horizontal ke vertikal atau bahkan miring, disini kalian bebas untuk melakukan variasi dari berbagai arah.
 # Lingkaran & Oval
+## 1. Lingkaran & Oval Dalam Tabel
 
 ![[Pasted image 20251123081635.png]]
 ![[Pasted Image 20251117063928_971.png]]![[Pasted Image 20251117064131_094.png]]![[Pasted Image 20251117064156_835.png]]
 ![[Pasted image 20251123075438.png]]
-![[Pasted image 20251123075459.png]]
 Latihan ini diperkenalkan oleh [Drawabox](https://drawabox.com/lesson/1/tablesofellipses) dan Peter Han. Latihannya membuat lingkaran dan oval. Latihan ini diharuskan membuat tabel dulu menggunakan penggaris, ukurannya bebas bisa lebar atau sempit, lalu coba untuk menggambar lingkaran di dalam tabel tersebut. Fokus jangan sampai keluar garis tabel, lingkaran harus berada dalam tabel semuanya.
 ### Hal Yang Perlu Diingat
 - Hindari hasil lingkaran atau oval yang tidak rata, benjol, keriting, garis awal dan akhir tidak bertemu, bergelombang, ragu-ragu.
 - Wajib menggunakan metode ghosting atau ancang-ancang. Sebelum pensil menempel ke kertas,  posisikan pensilnya melayang di atas kertas lalu coba gerakan memutar lingkaran di udara. Lakukan berkali-kali sampai sudah terekam gerakan tersebut. Lalu jika sudah yakin, langsung ambil momentum dengan posisikan pensil menempel ke kertas dengan 2-3 kali putaran.
 - Cobalah untuk memvariasikan kecepatan ketika pada saat ghosting, coba perlambat gerakan ghostingnya atau coba juga percepat gerakannya, cari mana yang lebih nyaman dan hasilnya lebih presisi.
+## 2. Variasi Latihan Lingkaran & Oval
+### A. Oval Di Dalam Bidang Datar
+
+![[Pasted image 20251123083831.png]]
+Latihan ini diperkenalkan oleh [Drawabox.](https://drawabox.com/lesson/1/ellipsesinplanes). Sebenarnya ini adalah gabungan antara [[#2. Ghosting Garis Lurus]] & oval. Kalian buat persegi dengan bentuk yang bervariasi menggunakan metode ghosting yang sudah kalian pelajari, kemudian isi persegi itu dengan bentuk oval.
+#### Hal Yang Perlu Diingat
+- Jangan lupa untuk menggunakan metode ghosting untuk memidik keempat sisi garis persegi.
+- Usahakan oval tersebut harus menyentuh keempat sisi garis persegi, tidak boleh kurang dan tidak boleh berlebihan.
+- Hindari bentuk oval penyok / gepeng. Jangan memaksakan oval menyentuh pinggiran kotak sampai bentuknya menjadi penyok, seperti persegi, atau seperti ban kempes.
+- Hindari oval melayang. Jangan hanya mencari aman dengan menggambar lingkaran halus kecil di tengah tanpa usaha membidik garis pinggir persegi.
+
+![[Pasted image 20251123083546.png]]
+![[Pasted image 20251123083729.png]]
+![[Pasted image 20251123083751.png]]
